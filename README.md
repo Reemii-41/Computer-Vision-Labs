@@ -25,7 +25,7 @@ To get started with the labs, follow these steps:
 
 | Student Name       | GitHub Account    |
 |--------------------|-------------------|
-| Renad alnuaim      | [@Renad-Aln](https://github.com/@Renad-Aln) |
+| Renad alnuaim      | [@Renad-Aln](https://github.com/Renad-Aln) |
 | Reem Alshami       | [@Reemii-41](https://github.com/Reemii-41) |
 | Maimonah Altaweel  | [@maimonahST](https://github.com/maimonahST) |
 | Haya Alzahim       | [@HayaAlzahim](https://github.com/HayaAlzahim) |
