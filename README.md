@@ -1,29 +1,32 @@
 # Computer-Vision-Labs
 Welcome to the Computer Vision Lab series! This repository contains a series of five pivotal labs focusing on various aspects of computer vision. Each lab provides hands-on experience, comprehensive explanations, and illustrative code examples.
 
-# Labs Overview:
-  1- Image Classification: Utilizes TensorFlow with the Flowers dataset to implement a Sequential model for image classification.
-  2- Image Stitching: Utilizes OpenCV (cv2) for merging images seamlessly to create panoramic views.
-  3- Image Matching: Implements the DELF Model for feature extraction and matching to align images accurately.
-  4- Feature Detection: 
-    •	Learn how to detect image features and add labeled boxes with formatted scores and label names.
-    •	Learn how to do timed detection for multiple images. 
-  5- Feature Extraction: Implements various feature extraction techniques:
-    •	Feature extraction using SIFT
-    •	Feature extraction using ORB
-    •	Feature extraction using BRISK
+## Labs Overview:
+
+1. **Image Classification**: Utilizes TensorFlow with the Flowers dataset to implement a Sequential model for image classification.
+2. **Image Stitching**: Utilizes OpenCV (cv2) for merging images seamlessly to create panoramic views.
+3. **Image Matching**: Implements the DELF Model for feature extraction and matching to align images accurately.
+4. **Feature Detection**:
+    - Learn how to detect image features and add labeled boxes with formatted scores and label names.
+    - Learn how to do timed detection for multiple images.
+5. **Feature Extraction**: Implements various feature extraction techniques:
+    - Feature extraction using SIFT
+    - Feature extraction using ORB
+    - Feature extraction using BRISK
+
 # Getting Started:
 To get started with the labs, follow these steps:
-  1- Clone this repository to your local machine.
-  2- Open each lab's Jupyter Notebook using Jupyter Notebooks or Google Colab.
-  3- Follow the instructions within each lab notebook for implementation details.
+  1. Clone this repository to your local machine.
+  2. Open each lab's Jupyter Notebook using Jupyter Notebooks or Google Colab.
+  3. Follow the instructions within each lab notebook for implementation details.
+
 
   ## Student Lab Creator Information:
 
-| Student Name       | Student ID    |
-|--------------------|---------------|
-| Renad alnuaim      | 2200003207    |
-| Reem Alshami       | 2200001541    |
-| Maimonah Altaweel  | 2200002493    |
-| Haya Alzahim       | 2200001111    |
-| Shahad Alotaibi    | 2200003282    |
+| Student Name       | GitHub Account    |
+|--------------------|-------------------|
+| Renad alnuaim      | [@Renad-Aln](https://github.com/@Renad-Aln) |
+| Reem Alshami       | [@Reemii-41](https://github.com/Reemii-41) |
+| Maimonah Altaweel  | [@maimonahST](https://github.com/maimonahST) |
+| Haya Alzahim       | [@HayaAlzahim](https://github.com/HayaAlzahim) |
+| Shahad Alotaibi    | [@Shahadfaiz](https://github.com/Shahadfaiz) |
